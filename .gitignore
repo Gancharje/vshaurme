@@ -1,3 +1,4 @@
 .idle
 .vscode
 .DS_Store
+*.sqlite3
